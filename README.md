@@ -12,8 +12,7 @@ Trained on 6 months of real hourly data (July–Dec 2024)
 ---
 
 ### Live Demo  
-https://muneebtalks-air-quality-pakistan.streamlit.app  
-
+https://air-quality-pakistan.streamlit.app/
 ### Key Features  
 - 1–60 day interactive AQI forecast with confidence intervals  
 - Automatically detects **Eid, Independence Day & winter smog peaks** (Pakistan holidays included)  
