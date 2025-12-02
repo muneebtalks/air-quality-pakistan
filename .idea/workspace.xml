@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4dcfc9c-6ba6-4512-9944-edad6a303726" name="Changes" comment="add Lahore air quality data (July-Dec 2024)">
-      <change afterPath="$PROJECT_DIR$/forecast_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.arima_model.executor": "Run",
     "Python.data_cleaning.executor": "Run",
     "Python.forecast_model.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -83,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764655319751</updated>
       <workItem from="1764655320806" duration="278000" />
-      <workItem from="1764655665490" duration="1361000" />
+      <workItem from="1764655665490" duration="2057000" />
     </task>
     <task id="LOCAL-00001" summary="add Lahore air quality data (July-Dec 2024)">
       <option name="closed" value="true" />
@@ -113,6 +116,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="add Lahore air quality data (July-Dec 2024)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/air_quality_pakistan$arima_model.coverage" NAME="arima_model Coverage Results" MODIFIED="1764657290897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/air_quality_pakistan$data_cleaning.coverage" NAME="data_cleaning Coverage Results" MODIFIED="1764656069634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/air_quality_pakistan$forecast_model.coverage" NAME="forecast_model Coverage Results" MODIFIED="1764657041402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
